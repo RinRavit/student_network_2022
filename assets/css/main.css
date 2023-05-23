@@ -109,15 +109,15 @@ h2 {
   text-align: center;
 }
 .navigation_user > h3 {
-  /* font-size: 3rem; */
   color: rgb(74, 74, 74);
   margin-top: 6rem;
   position: absolute;
   left: 20%;
   text-align: center;
 }
+/* end of navigation bar */
 
-/* popular course */
+/* Body */
 .Body_B {
   padding: 0 2rem;
   max-width: 307px;
@@ -186,7 +186,7 @@ h2 {
   margin-left: 8%;
   gap: 2rem;
 }
-/* End popular Body */
+/* End Body */
 
 /* footer */
 .Home {
