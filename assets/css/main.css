@@ -49,7 +49,6 @@ h1 {
 }
 h2 {
   font-size: 3rem;
-  display: flex;
 }
 
 /* Container-width */
@@ -84,11 +83,6 @@ h2 {
   /* bottom: -10px; */
   object-fit: contain;
   border-radius: 50%;
-}
-.name_date {
-  position: absolute;
-  left: 20%;
-  top: 10%;
 }
 
 .p_name {
@@ -243,7 +237,6 @@ h2 {
   align-items: bottom;
   gap: 20px;
   justify-content: space-between;
-  background-color: aqua;
 }
 
 /* end of Footer */
