@@ -10,6 +10,7 @@
 
 html {
   font-size: 62.5%;
+  align-items: center;
 }
 
 * {
@@ -48,11 +49,12 @@ h1 {
 }
 h2 {
   font-size: 3rem;
+  display: flex;
 }
 
 /* Container-width */
 .top-page {
-  background-color: gray;
+  background-color: #00ff75;
   padding: 5px;
   position: sticky;
   top: 0;
@@ -83,6 +85,12 @@ h2 {
   object-fit: contain;
   border-radius: 50%;
 }
+.name_date {
+  position: absolute;
+  left: 20%;
+  top: 10%;
+}
+
 .p_name {
   position: absolute;
   margin: 0;
@@ -235,5 +243,7 @@ h2 {
   align-items: bottom;
   gap: 20px;
   justify-content: space-between;
+  background-color: aqua;
 }
+
 /* end of Footer */
